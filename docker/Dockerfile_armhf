@@ -7,7 +7,7 @@
 # Parrot Bebop, or OcPoC-Zynq
 #
 
-FROM debian:buster
+FROM ubuntu:20.04
 LABEL maintainer="Daniel Agar <daniel@agar.ca>"
 
 ENV DEBIAN_FRONTEND noninteractive
